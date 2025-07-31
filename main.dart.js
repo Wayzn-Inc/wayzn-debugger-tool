@@ -30772,7 +30772,7 @@ return A.T(k.wP("graph_box_1",q),$async$yG)
 case 3:s=4
 return A.T(k.wP("storage_box_1",t.z),$async$yG)
 case 4:s=5
-return A.T($.a97().BX(".env"),$async$yG)
+return A.T($.a97().BX("dotenv"),$async$yG)
 case 5:if($.ad==null)A.aKx()
 k=$.ad
 k.toString
