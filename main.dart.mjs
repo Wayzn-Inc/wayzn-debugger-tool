@@ -619,6 +619,7 @@ class CompiledApp {
       _1506: x0 => x0.read(),
       _1507: x0 => x0.cancel(),
       _1512: f => finalizeWrapper(f, function(x0) { return dartInstance.exports._1512(f,arguments.length,x0) }),
+      _1513: f => finalizeWrapper(f, function(x0) { return dartInstance.exports._1513(f,arguments.length,x0) }),
       _1514: (x0,x1,x2,x3) => x0.addEventListener(x1,x2,x3),
       _1515: (x0,x1,x2,x3) => x0.removeEventListener(x1,x2,x3),
       _1522: (x0,x1) => globalThis.fetch(x0,x1),
