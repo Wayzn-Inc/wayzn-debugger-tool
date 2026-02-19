@@ -121551,12 +121551,12 @@ h=A.b_U(j,j,B.RF,j,j,new A.aNy(k),j,j,j)
 g=k.Q
 g===$&&A.a()
 f=t.p
-g=A.b43(B.p,0,B.RC,h,new A.e0(B.w,B.w,new A.bj(B.cT,1,B.E,-1),B.w),A.i5(A.b([B.afv,B.p1,A.dG(new A.ET(g,"Search by email, serial or device id",new A.aNz(k),new A.aNA(k),new A.aNB(),j),j,400),B.p1],f),B.ab,B.a5,B.as,0,j))
+g=A.b43(B.p,0,B.RC,h,new A.e0(B.w,B.w,new A.bj(B.cT,1,B.E,-1),B.w),A.i5(A.b([B.afw,B.p1,A.dG(new A.ET(g,"Search by email, serial or device id",new A.aNz(k),new A.aNA(k),new A.aNB(),j),j,400),B.p1],f),B.ab,B.a5,B.as,0,j))
 h=k.y
 s=h?250:70
 n=A.th(j,A.fm(h?A.b_V(i,40,j):A.b_V(i,25,j),j,j),B.U,j,new A.ay(B.m9,j,j,j,j,j,j,B.r),j,100,j,j,j,j,1/0)
 m=h?1:0
-m=A.akz(B.afz,h?B.Sg:B.Se,B.c3,m)
+m=A.akz(B.afA,h?B.Sg:B.Se,B.c3,m)
 l=h?1:0
 n=A.eX(A.b([n,B.aa4,new A.Yd(B.RG,m,new A.aNC(),j),B.p1,A.akz(B.a6J,h?B.S4:B.S3,B.c3,l)],f),B.ab,B.a5,B.as,0)
 h=new A.ay(B.p,j,j,j,j,j,j,B.r)
@@ -121840,14 +121840,14 @@ s=b.lY($.Qm(),t.hv)
 r=A.p(t.N,t.z)
 for(q=i.length,p=0;p<i.length;i.length===q||(0,A.v)(i),++p){o=i[p]
 r.n(0,o.i(0,"key"),o.i(0,"val"))}q=A.fp(B.T,B.aA,A.bR(J.c0(r.i(0,"LastControlState")),k,k,k,k,k,k,k),k,!1,B.afn,B.al,k)
-n=A.fp(B.T,B.aA,A.bR(J.c0(r.i(0,"ControlState")),k,k,k,k,k,k,k),k,!1,B.afA,B.al,k)
-m=A.fp(B.T,B.aA,A.bR(J.c0(r.i(0,"Current")),k,k,k,k,k,k,k),k,!1,B.afu,B.al,k)
+n=A.fp(B.T,B.aA,A.bR(J.c0(r.i(0,"ControlState")),k,k,k,k,k,k,k),k,!1,B.afB,B.al,k)
+m=A.fp(B.T,B.aA,A.bR(J.c0(r.i(0,"Current")),k,k,k,k,k,k,k),k,!1,B.afv,B.al,k)
 l=s.i(0,j)
 l.toString
 if(J.rT(l)){l=s.i(0,j)
 l.toString
 l=J.Cv(l).r}else l="--"
-return A.i5(A.b([q,n,m,A.fp(B.T,B.aA,A.bR(l,k,k,k,k,k,k,k),k,!1,B.afs,B.al,k),A.fp(B.T,B.aA,A.bR(J.c0(r.i(0,"Position")),k,k,k,k,k,k,k),k,!1,B.afy,B.al,k),A.fp(B.T,B.aA,A.bR(J.c0(r.i(0,"TargetDestination")),k,k,k,k,k,k,k),k,!1,B.afo,B.al,k)],t.p),B.ab,B.a5,B.as,16,k)}}
+return A.i5(A.b([q,n,m,A.fp(B.T,B.aA,A.bR(l,k,k,k,k,k,k,k),k,!1,B.aft,B.al,k),A.fp(B.T,B.aA,A.bR(J.c0(r.i(0,"Position")),k,k,k,k,k,k,k),k,!1,B.afz,B.al,k),A.fp(B.T,B.aA,A.bR(J.c0(r.i(0,"TargetDestination")),k,k,k,k,k,k,k),k,!1,B.afo,B.al,k)],t.p),B.ab,B.a5,B.as,16,k)}}
 A.GK.prototype={
 aD(){return new A.acO(A.J2())}}
 A.acO.prototype={
@@ -121893,7 +121893,7 @@ return A.N($async$$0,r)},
 $S:13}
 A.aXP.prototype={
 $1(a){var s=null
-return new A.wQ(A.Xo(B.Rx,s),A.bR("Alert",s,s,s,s,s,s,s),B.afr,A.b([A.Ka(B.aft,new A.aXN(this.a,a),s),A.Ka(B.K_,new A.aXO(a),s)],t.p),B.p,s)},
+return new A.wQ(A.Xo(B.Rx,s),A.bR("Alert",s,s,s,s,s,s,s),B.afr,A.b([A.Ka(B.afu,new A.aXN(this.a,a),s),A.Ka(B.K_,new A.aXO(a),s)],t.p),B.p,s)},
 $S:713}
 A.aXN.prototype={
 $0(){var s=0,r=A.O(t.H),q=this,p
@@ -126115,10 +126115,10 @@ B.m4=new A.am4(0,"pixel")
 B.dx=new A.t8(3,"experimentalWebParagraph")
 B.Nk=new A.Dd(null,null,null,null,null,null,null)
 B.Nl=new A.De(null,null,null,null,null,null)
-B.afx=new A.eQ("No Graphs Found for this device",null,null,null,null,null,null,null,null,null,null)
-B.Nm=new A.na(B.a2,null,null,B.afx,null)
-B.afw=new A.eQ("No Graphs Found",null,null,null,null,null,null,null,null,null,null)
-B.Nn=new A.na(B.a2,null,null,B.afw,null)
+B.afy=new A.eQ("No Graphs Found for this device",null,null,null,null,null,null,null,null,null,null)
+B.Nm=new A.na(B.a2,null,null,B.afy,null)
+B.afx=new A.eQ("No Graphs Found",null,null,null,null,null,null,null,null,null,null)
+B.Nn=new A.na(B.a2,null,null,B.afx,null)
 B.e7=new A.RC(1,"outside")
 B.qx=new A.is(0,"y")
 B.Np=new A.is(1,"high")
@@ -129104,8 +129104,8 @@ B.a6G=new A.a_Q(1,"end")
 B.EW=new A.a_R(0,"nearestOverlay")
 B.a6I=new A.a_R(1,"rootOverlay")
 B.acQ=new A.w(!0,B.cT,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.afB=new A.eQ("v1.0.0",null,B.acQ,null,null,!1,B.b3,null,1,null,null)
-B.a6J=new A.bz(B.ji,B.afB,null)
+B.afs=new A.eQ("v0.0.4",null,B.acQ,null,null,!1,B.b3,null,1,null,null)
+B.a6J=new A.bz(B.ji,B.afs,null)
 B.by=new A.a_Y(0,"fill")
 B.X=new A.a_Y(1,"stroke")
 B.a6K=new A.qr(1/0)
@@ -129810,7 +129810,7 @@ B.afo=new A.eQ("Target Position",null,null,null,null,null,null,null,null,null,nu
 B.afp=new A.eQ("Do you want to delete this data?",null,null,null,null,null,null,null,null,null,null)
 B.afq=new A.eQ("Close",null,null,null,null,null,null,null,null,null,null)
 B.afr=new A.eQ("Do you really want to send this command to device?",null,null,null,null,null,null,null,null,null,null)
-B.afs=new A.eQ("Velocity",null,null,null,null,null,null,null,null,null,null)
+B.aft=new A.eQ("Velocity",null,null,null,null,null,null,null,null,null,null)
 B.O8=new A.E(1,1,0.5411764705882353,0.5019607843137255,B.h)
 B.P0=new A.E(1,1,0.3215686274509804,0.3215686274509804,B.h)
 B.NM=new A.E(1,1,0.09019607843137255,0.26666666666666666,B.h)
@@ -129818,13 +129818,13 @@ B.P1=new A.E(1,0.8352941176470589,0,0,B.h)
 B.a3w=new A.cY([100,B.O8,200,B.P0,400,B.NM,700,B.P1],t.pl)
 B.a5i=new A.GQ(B.a3w,1,1,0.3215686274509804,0.3215686274509804,B.h)
 B.aby=new A.w(!0,B.a5i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.aft=new A.eQ("Send",null,B.aby,null,null,null,null,null,null,null,null)
-B.afu=new A.eQ("Applied Current",null,null,null,null,null,null,null,null,null,null)
+B.afu=new A.eQ("Send",null,B.aby,null,null,null,null,null,null,null,null)
+B.afv=new A.eQ("Applied Current",null,null,null,null,null,null,null,null,null,null)
 B.adt=new A.w(!0,B.j_,null,null,null,null,18,B.c4,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.afv=new A.eQ("User and Device Dashboard",null,B.adt,null,null,null,null,null,null,null,null)
-B.afy=new A.eQ("Position",null,null,null,null,null,null,null,null,null,null)
-B.afz=new A.eQ("Dashboard",null,null,null,null,!1,B.b3,null,1,null,null)
-B.afA=new A.eQ("Current Control State",null,null,null,null,null,null,null,null,null,null)
+B.afw=new A.eQ("User and Device Dashboard",null,B.adt,null,null,null,null,null,null,null,null)
+B.afz=new A.eQ("Position",null,null,null,null,null,null,null,null,null,null)
+B.afA=new A.eQ("Dashboard",null,null,null,null,!1,B.b3,null,1,null,null)
+B.afB=new A.eQ("Current Control State",null,null,null,null,null,null,null,null,null,null)
 B.akU=new A.aIe(0,"system")
 B.a6c=new A.e(0.056,0.024)
 B.a6t=new A.e(0.108,0.3085)
