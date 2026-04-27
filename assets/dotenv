@@ -27,3 +27,5 @@ FB_token_uri="https://oauth2.googleapis.com/token"
 FB_auth_provider_x509_cert_url="https://www.googleapis.com/oauth2/v1/certs"
 FB_client_x509_cert_url="https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-b0dmd%40wayzn-app.iam.gserviceaccount.com"
 FB_universe_domain="googleapis.com"
+
+Shopify_SpreadSheet_ID="1S269ZJnEzovT_YYqY5hdllZMxFEIm236sNqdMXQt5gQ"
