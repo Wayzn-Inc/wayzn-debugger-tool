@@ -29,3 +29,7 @@ FB_client_x509_cert_url="https://www.googleapis.com/robot/v1/metadata/x509/fireb
 FB_universe_domain="googleapis.com"
 
 Shopify_SpreadSheet_ID="1S269ZJnEzovT_YYqY5hdllZMxFEIm236sNqdMXQt5gQ"
+Customer_IssueSheet_ID="1dMCuFDGb2zUWFGkt5QFp9DMSzk3KVIQe7YoEvZoHUOM"
+
+LLM_Link="dummy"
+#https://huggingface.co/unsloth/Qwen3.5-0.8B-GGUF/resolve/main/Qwen3.5-0.8B-Q4_K_M.gguf?download=true
